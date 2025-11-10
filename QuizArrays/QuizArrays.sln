@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizArrays.Logic", "QuizArrays.Logic\QuizArrays.Logic.csproj", "{EC325DC2-B334-4A1B-99F4-D53F4C61B41E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizArrays.UI", "QuizArrays.UI\QuizArrays.UI.csproj", "{4532867D-D08B-40D1-BD68-579C47E4060B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC325DC2-B334-4A1B-99F4-D53F4C61B41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC325DC2-B334-4A1B-99F4-D53F4C61B41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC325DC2-B334-4A1B-99F4-D53F4C61B41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC325DC2-B334-4A1B-99F4-D53F4C61B41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4532867D-D08B-40D1-BD68-579C47E4060B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4532867D-D08B-40D1-BD68-579C47E4060B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4532867D-D08B-40D1-BD68-579C47E4060B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4532867D-D08B-40D1-BD68-579C47E4060B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9327664-65EF-4C58-A832-5AE9C159C85E}
+	EndGlobalSection
+EndGlobal
